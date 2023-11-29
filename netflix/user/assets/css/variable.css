@@ -21,16 +21,16 @@
    */
 
   --live-indicator-shadow: hsla(0, 79%, 63%, 0.5);
-  --rich-black-fogra-30:   hsl(219, 32%, 10%);
-  --rich-black-fogra-29:   hsl(0, 0%, 0%);
-  --live-indicator:        hsl(0, 79%, 63%);
+  --rich-black-fogra-30:   hsl(0, 0%, 21%); /*footer*/
+  --rich-black-fogra-29:   hsl(0, 0%, 0%); /*background*/
+  --live-indicator:        hsl(0, 83%, 23%);
   --oxford-blue-50:        hsla(0, 39%, 14%, 0.8);
-  --oxford-blue:           hsl(0, 100%, 30%);
-  --light-azure:           hsl(0, 84%, 56%);
+  --oxford-blue:           hsl(0, 70%, 48%);
+  --light-azure:           hsl(0, 0%, 0%); /*slider*/
   --off-white:             hsl(0, 0%, 88%);
-  --yellow:                hsl(45, 100%, 54%);
+  --yellow:                hsl(0, 0%, 0%);
   --white:                 hsl(0, 0%, 100%);
-  --azure:                 hsl(352, 100%, 19%);
+  --azure:                 hsla(0, 100%, 50%, 0.603);
 
   /**
    * Typography 
